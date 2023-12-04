@@ -1,0 +1,4 @@
+main DSTACK_USAGE:5 DSTACK_LEVEL:5 FILE:"project.c" LINE:155
+lcd_write_string DSTACK_USAGE:3 DSTACK_LEVEL:8 FILE:"project.c" LINE:100
+lcd_write_char DSTACK_USAGE:1 DSTACK_LEVEL:9 FILE:"project.c" LINE:87
+lcd_set DSTACK_USAGE:1 DSTACK_LEVEL:10 FILE:"project.c" LINE:12
